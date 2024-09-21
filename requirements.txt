@@ -1,2 +1,5 @@
 ipywidgets
 notebook
+pandas
+matplotlib
+scikit-learn
