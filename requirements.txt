@@ -3,3 +3,10 @@ notebook
 pandas
 matplotlib
 scikit-learn
+shap
+lime
+flask
+seaborn
+xgboost
+catboost
+joblib
